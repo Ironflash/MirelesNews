@@ -1,0 +1,17 @@
+//generated node files
+node_modules
+
+//generated bower libs
+public/libs
+
+// mac 
+.DS_STORE
+app/models/Nerd.js
+public/src/js/controllers/GeekCtrl.js
+public/src/js/controllers/MainCtrl.js
+public/src/js/controllers/NerdCtrl.js
+public/src/js/services/GeekService.js
+public/src/js/services/NerdService.js
+public/views/geek.html
+public/views/home.html
+public/views/nerd.html
