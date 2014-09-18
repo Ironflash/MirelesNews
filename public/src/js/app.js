@@ -1,1 +1,1 @@
-angular.module('sampleApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService', 'GeekCtrl', 'GeekService']);
+angular.module('Mireles_News', ['ngRoute', 'appRoutes', 'appDirectives','PostCtrl', 'NerdService', 'NerdCtrl','GeekCtrl', 'GeekService']);
